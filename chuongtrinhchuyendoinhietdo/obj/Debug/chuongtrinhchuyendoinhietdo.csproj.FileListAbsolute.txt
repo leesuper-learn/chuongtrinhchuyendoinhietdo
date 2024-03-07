@@ -1,0 +1,7 @@
+E:\C#\online\W05\Hamvaphuongthuctrongham1\chuongtrinhchuyendoinhietdo\chuongtrinhchuyendoinhietdo\obj\Debug\chuongtrinhchuyendoinhietdo.csproj.AssemblyReference.cache
+E:\C#\online\W05\Hamvaphuongthuctrongham1\chuongtrinhchuyendoinhietdo\chuongtrinhchuyendoinhietdo\obj\Debug\chuongtrinhchuyendoinhietdo.csproj.CoreCompileInputs.cache
+E:\C#\online\W05\Hamvaphuongthuctrongham1\chuongtrinhchuyendoinhietdo\chuongtrinhchuyendoinhietdo\bin\Debug\chuongtrinhchuyendoinhietdo.exe.config
+E:\C#\online\W05\Hamvaphuongthuctrongham1\chuongtrinhchuyendoinhietdo\chuongtrinhchuyendoinhietdo\bin\Debug\chuongtrinhchuyendoinhietdo.exe
+E:\C#\online\W05\Hamvaphuongthuctrongham1\chuongtrinhchuyendoinhietdo\chuongtrinhchuyendoinhietdo\bin\Debug\chuongtrinhchuyendoinhietdo.pdb
+E:\C#\online\W05\Hamvaphuongthuctrongham1\chuongtrinhchuyendoinhietdo\chuongtrinhchuyendoinhietdo\obj\Debug\chuongtrinhchuyendoinhietdo.exe
+E:\C#\online\W05\Hamvaphuongthuctrongham1\chuongtrinhchuyendoinhietdo\chuongtrinhchuyendoinhietdo\obj\Debug\chuongtrinhchuyendoinhietdo.pdb
